@@ -1,0 +1,31 @@
+*#
+*.iml
+*.ipr
+*.iws
+*.pyc
+*.tm.epoch
+*.vim
+*-shim.sbt
+.idea/
+/project/plugins/project
+project/boot
+target/
+/logs
+.cache
+.classpath
+.project
+.settings
+.class
+*.log
+
+# sbt specific
+.cache/
+.history/
+.lib/
+dist/*
+target/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
