@@ -10,7 +10,8 @@ This app is a demonstration and tutorial of advanced concepts in Akka such as
 * Akka IO
 
 Some useful typesafe resources are:
-*Akka Site [official site](http://akka.io/)
+
+Akka Site [official site](http://akka.io/)
 
 
 You will find the following tutorials:
@@ -25,4 +26,4 @@ You will find the following tutorials:
 * 09_distributed_events
 * 10_telnet_server
 * 11_http_server
-* 12_storage
+* 12_storage_tutorial
